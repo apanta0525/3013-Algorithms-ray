@@ -1,4 +1,3 @@
-# 3013-Algorithms-ray
 ## Sudhir Ray 
 #### Repo:  3013-Algorithms-ray
 #### Email: raysudhir30@gmail.com / sray0228@my.msutexas.edu
