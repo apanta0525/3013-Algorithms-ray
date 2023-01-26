@@ -64,25 +64,17 @@ ostream &operator<<(ostream &os, const CircularArrayQue &other) {
  * 
  */
 int main() {
-    CircularArrayQue C1(5);
+    CircularArrayQue C1(5); //creating an instance of the queue
 
-    // C1.Push(34);
-    // C1.Push(38);
-    // C1.Push(44);
-    // C1.Push(22);
-    // C1.Push(99);
-    // C1.Push(100);
+    
 
-    C1.Push(1);
+    C1.Push(1); //pushing items into the queue
     C1.Push(2);
     C1.Push(3);
-    // C1.Push(6);
-    // C1.Push(7);
-    cout << C1 << endl;
+    
+    cout << C1 << endl; //printing items in queue
 
-    // C1.Push(1);
-    // C1.Push(2);
-    // C1.Push(3);
+    
 
-    cout << C1 << endl;
+
 }
