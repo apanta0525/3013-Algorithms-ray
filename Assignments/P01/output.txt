@@ -1,1 +1,154 @@
+Select the field you want to search data on:
+0.Id
+1.First Name
+2.Last Name
+3.Address
+4.Email
+5.City
+6.State
+7.Car
+8.Phone number
+9.GPS (Longitude and Latitude)
+10.Exit
+Enter Your Choice:0
+Enter string to be search Data:890
 
+Node count:15
+Compared 478 Nodes.
+Completed search in BST in 28.43 micro sec
+Completed search in Linked List in 682.13 micro sec
+Found String 890 in Raffaello
+Details:
+id : 890
+first_name : Raffaello
+last_name : Redsell
+email: rredsellop@amazon.com
+address: 15 Haas Terrace
+city: Shawnee Mission
+state: KS
+latitude: 38.8999
+longitude: -94.832
+car: Suzuki
+car_model: SX4
+car_color: Mauv
+favorite_movie: Employee of the Month
+pet: Burchell's gonolek
+job_title: Biostatistician IV
+phone_number: (913) 7152685
+stocks: ASET, NDSN, CTT           , PVH, MPW, EWBC, GATX, 
+
+Select the field you want to search data on:
+0.Id
+1.First Name
+2.Last Name
+3.Address
+4.Email
+5.City
+6.State
+7.Car
+8.Phone number
+9.GPS (Longitude and Latitude)
+10.Exit
+Enter Your Choice:1
+Enter string to be search Data:Murvyn
+
+Node count:16
+Compared 499 Nodes.
+Completed search in BST in 22.82 micro sec
+Completed search in Linked List in 640.78 micro sec
+Found String murvyn in Murvyn
+Details:
+id : 891
+first_name : Murvyn
+last_name : Plitz
+email: mplitzoq@myspace.com
+address: 95 Kenwood Plaza
+city: Albuquerque
+state: NM
+latitude: 35.0549
+longitude: -106.546
+car: Pontiac
+car_model: Montana
+car_color: Blue
+favorite_movie: Boondock Saints II: All Saints Day, The
+pet: Dove, ring
+job_title: Software Test Engineer I
+phone_number: (505) 1056391
+stocks: INST, VNO^K, CHK, VBFC, CINF, PSA^U, MDU, 
+
+Select the field you want to search data on:
+0.Id
+1.First Name
+2.Last Name
+3.Address
+4.Email
+5.City
+6.State
+7.Car
+8.Phone number
+9.GPS (Longitude and Latitude)
+10.Exit
+Enter Your Choice:9
+Enter latitude:41.249
+Enter longitude:-96.027
+
+Node count:24
+Compared 1000 Nodes.
+Completed search in BST in 26.23 micro sec
+Completed search in Linked List in 159 micro sec
+Not Found
+
+Select the field you want to search data on:
+0.Id
+1.First Name
+2.Last Name
+3.Address
+4.Email
+5.City
+6.State
+7.Car
+8.Phone number
+9.GPS (Longitude and Latitude)
+10.Exit
+Enter Your Choice:9
+Enter latitude:41.249
+Enter longitude:-96.0274
+
+Node count:45
+Compared 550 Nodes.
+Completed search in BST in 25.03 micro sec
+Completed search in Linked List in 93.62 micro sec
+Found String murvyn in Nowell
+Details:
+id : 892
+first_name : Nowell
+last_name : Gyenes
+email: ngyenesor@paginegialle.it
+address: 2952 Grasskamp Terrace
+city: Omaha
+state: NE
+latitude: 41.249
+longitude: -96.0274
+car: Lotus
+car_model: Elan
+car_color: Pink
+favorite_movie: Kwaidan (Kaidan)
+pet: Asian foreset tortoise
+job_title: Environmental Specialist
+phone_number: (402) 3398594
+stocks: CERC, KE, SHOP, PBB, BEDU, CPE^A, DYN^A, 
+
+Select the field you want to search data on:
+0.Id
+1.First Name
+2.Last Name
+3.Address
+4.Email
+5.City
+6.State
+7.Car
+8.Phone number
+9.GPS (Longitude and Latitude)
+10.Exit
+Enter Your Choice:10
+ 
