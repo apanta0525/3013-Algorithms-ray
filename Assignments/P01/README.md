@@ -1,6 +1,10 @@
 ## P01 - Database Indexes
 ### Sudhir Ray
 ### Description:
+This program takes all the data from the json file and adds the
+data to a binary search tree sorted according to eight different fields. The
+program also allows the user to search for information as they please with
+different fields.
 
 
 ### Files
