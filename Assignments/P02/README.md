@@ -1,6 +1,7 @@
 ## P02 - AutoComplete in Linear Time
 ### Sudhir Ray
 ### Description:
+This project is about loading a singly linked list with dictionary words, then timing how it takes to look them up.
 
 
 
