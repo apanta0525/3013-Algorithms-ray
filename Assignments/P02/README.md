@@ -15,7 +15,7 @@
 |   5   | [mygetch.hpp](https://github.com/Sudhir0228/3013-Algorithms-ray/blob/main/Assignments/P02/mygetch.hpp) | Header files to capture of keyboard input without hitting the enter key.  |
 |   6   | [termcolor.hpp](https://github.com/Sudhir0228/3013-Algorithms-ray/blob/main/Assignments/P02/termcolor.hpp) | Header file for the color of the text. |
 |   7   | [timer.hpp](https://github.com/Sudhir0228/3013-Algorithms-ray/blob/main/Assignments/P02/timer.hpp) | Header file to calculate time. |
-
+|   8   | [output.txt](https://github.com/Sudhir0228/3013-Algorithms-ray/blob/main/Assignments/P02/output.txt) | File with output. |
 
 ### Instructions
 
