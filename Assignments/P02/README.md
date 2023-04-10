@@ -8,7 +8,7 @@
 
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
-|   1   | [main.cpp](https://github.com/Sudhir0228/3013-Algorithms-ray/blob/main/Assignments/P02/main.cpp) | Main driver of my DataIndexes assignment. |
+|   1   | [main.cpp](https://github.com/Sudhir0228/3013-Algorithms-ray/blob/main/Assignments/P02/main.cpp) | Main driver of my AutoComplete in Linear Time assignment. |
 |   2   | [banner.cpp](https://github.com/Sudhir0228/3013-Algorithms-ray/blob/main/Assignments/P02/Banner.cpp) | My own Banner for P02. |
 |   3   | [dictionary.txt](https://github.com/Sudhir0228/3013-Algorithms-ray/blob/main/Assignments/P02/dictionary.txt) | Input file with words. |
 |   4   | [list.hpp](https://github.com/Sudhir0228/3013-Algorithms-ray/blob/main/Assignments/P02/list.hpp) | Header file for the linked list. |
