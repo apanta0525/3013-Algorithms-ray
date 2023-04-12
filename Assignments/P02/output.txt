@@ -1,2 +1,2 @@
-img width="957" alt="P02-algorithm" src="https://user-images.githubusercontent.com/66984542/231492476-b8595445-0a9f-4388-998a-85fcdc21bf29.png"
+![image01](img width="957" alt="P02-algorithm" src="https://user-images.githubusercontent.com/66984542/231492476-b8595445-0a9f-4388-998a-85fcdc21bf29.png")
 https://user-images.githubusercontent.com/66984542/231492476-b8595445-0a9f-4388-998a-85fcdc21bf29.png
