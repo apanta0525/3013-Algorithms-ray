@@ -1,5 +1,1 @@
-![image01](img width="957" alt="P02-algorithm" src="https://user-images.githubusercontent.com/66984542/231492476-b8595445-0a9f-4388-998a-85fcdc21bf29.png")
-https://user-images.githubusercontent.com/66984542/231492476-b8595445-0a9f-4388-998a-85fcdc21bf29.png
-
-
-<img width="957" alt="P02-algorithm" src="https://user-images.githubusercontent.com/66984542/231493721-04fd0a66-9360-4ec3-b243-4e2815a097b9.png">
+![Output](https://user-images.githubusercontent.com/66984542/231494001-c0e33d34-8e44-40eb-886e-8d4e7fd61749.png)
