@@ -1,7 +1,7 @@
 ## Program 3 - Processing in Trie Tree Time
 ### Sudhir Ray
 ### Description:
-This project performs the same "auto suggestions" we did with the linked list data structure in P02 but with a trie tree.
+This project performs the same "auto suggestions" we did with the linked list data structure in P02 but with a trie tree. 
 
 
 
