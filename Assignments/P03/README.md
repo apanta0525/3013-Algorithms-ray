@@ -1,7 +1,7 @@
 ## Program 3 - Processing in Trie Tree Time
 ### Sudhir Ray
 ### Description:
-This project performs the same "auto suggestions" we did with the linked list data structure in P02 but with a trie tree. 
+This project performs the same "auto suggestions" we did with the linked list data structure in P02 but with a trie tree. It Loads all of the words in the trie tree. It times how long does it to load all the words into the trie tree. It also looks up for words in trie tree and time how long it takes. Displays the first ten matching words found.
 
 
 
