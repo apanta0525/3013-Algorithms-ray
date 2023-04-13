@@ -11,7 +11,7 @@ This project performs the same "auto suggestions" we did with the linked list da
 | :---: | -------- | -------------------------------- |
 |   1   | [main.cpp](https://github.com/Sudhir0228/3013-Algorithms-ray/blob/main/Assignments/P03/main.cpp) | Main driver of my Processing in Trie Tree Time assignment. |
 |   2   | [banner.cpp](https://github.com/Sudhir0228/3013-Algorithms-ray/blob/main/Assignments/P03/Banner.cpp) | My own Banner for P03. |
-|   3   | [dict_w_defs.json]() | Input file with words. |
+|   3   | [dict_w_defs.json](https://github.com/Sudhir0228/3013-Algorithms-ray/blob/main/Assignments/P03/dict_w_defs.json) | Input file with words. |
 |   4   | [list.hpp]() | Header file for the linked list. |
 |   5   | [mygetch.hpp](https://github.com/Sudhir0228/3013-Algorithms-ray/blob/main/Assignments/P03/mygetch.hpp) | Header files to capture of keyboard input without hitting the enter key.  |
 |   6   | [termcolor.hpp](https://github.com/Sudhir0228/3013-Algorithms-ray/blob/main/Assignments/P03/termcolor.hpp) | Header file for the color of the text. |
