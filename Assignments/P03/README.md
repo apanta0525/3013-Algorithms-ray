@@ -16,7 +16,7 @@ This project performs the same "auto suggestions" we did with the linked list da
 |   5   | [mygetch.hpp](https://github.com/Sudhir0228/3013-Algorithms-ray/blob/main/Assignments/P03/mygetch.hpp) | Header files to capture of keyboard input without hitting the enter key.  |
 |   6   | [termcolor.hpp](https://github.com/Sudhir0228/3013-Algorithms-ray/blob/main/Assignments/P03/termcolor.hpp) | Header file for the color of the text. |
 |   7   | [timer.hpp](https://github.com/Sudhir0228/3013-Algorithms-ray/blob/main/Assignments/P03/timer.hpp) | Header file to calculate time. |
-|   8   | [output.md]() | File with output. |
+|   8   | [output.md](https://github.com/Sudhir0228/3013-Algorithms-ray/blob/main/Assignments/P03/output.md) | File with output. |
 
 ### Instructions
 
