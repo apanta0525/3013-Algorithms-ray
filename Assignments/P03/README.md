@@ -9,7 +9,7 @@ This project performs the same "auto suggestions" we did with the linked list da
 
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
-|   1   | [main.cpp]() | Main driver of my Processing in Trie Tree Time assignment. |
+|   1   | [main.cpp](https://github.com/Sudhir0228/3013-Algorithms-ray/blob/main/Assignments/P03/main.cpp) | Main driver of my Processing in Trie Tree Time assignment. |
 |   2   | [banner.cpp](https://github.com/Sudhir0228/3013-Algorithms-ray/blob/main/Assignments/P03/Banner.cpp) | My own Banner for P03. |
 |   3   | [dictionary.txt]() | Input file with words. |
 |   4   | [list.hpp]() | Header file for the linked list. |
