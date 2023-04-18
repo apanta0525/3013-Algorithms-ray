@@ -1,2 +1,2 @@
 #### Image:
-![Output](https://user-images.githubusercontent.com/66984542/231494001-c0e33d34-8e44-40eb-886e-8d4e7fd61749.png)
+![Output](https://user-images.githubusercontent.com/112501963/232673185-6e0e7ad2-abfe-4f97-8035-dbb555e7662a.JPG)
